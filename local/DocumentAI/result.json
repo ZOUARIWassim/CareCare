@@ -1,0 +1,11 @@
+{'Adresse-prescripteur': {'hard_match': 0.2069, 'fuzzy_match': 0.2733},
+ 'Date-de-la-prescription': {'hard_match': 0.8276, 'fuzzy_match': 0.936},
+ 'Nom-du-medecin': {'hard_match': 0.8276, 'fuzzy_match': 0.8985},
+ 'Numero-ADELI': {'hard_match': 0.8966, 'fuzzy_match': 0.8983},
+ 'Numero-AM-Finess': {'hard_match': 0.3793, 'fuzzy_match': 0.4033},
+ 'Numero-RPPS': {'hard_match': 0.8966, 'fuzzy_match': 0.9353},
+ 'Signature': {'hard_match': 0.0805, 'fuzzy_match': 0.0834},
+ 'Texte-manuscrit': {'hard_match': 0.5402, 'fuzzy_match': 0.5728},
+ 'Texte-Signature': {'hard_match': 0.5862, 'fuzzy_match': 0.6118},
+ 'Texte-soin-ALD': {'hard_match': 0.4828, 'fuzzy_match': 0.787},
+ 'Texte-soin-sans-ALD': {'hard_match': 0.5287, 'fuzzy_match': 0.7209}}
